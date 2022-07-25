@@ -12,6 +12,10 @@ The steps for quantum error correction process are:
 
 There are also two types of errors in quantum computing: bit-flip error and phase-flip error. Shor's code combines the detection and recovery of both error types. 
 
+# Requirements
+Python 3.x, numpy, matplotlib, qiskit-terra, qiskit-aer, qiskit-aqua
+
+
 # References 
 - IBM Quantum Experience
 - https://quantumcomputinguk.org/tutorials/quantum-error-correction-shor-code-in-qiskit
